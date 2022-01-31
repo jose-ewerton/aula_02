@@ -3,7 +3,7 @@
 
 
 # Inteiro
-
+n = 2
 
 
 # Float - números reais

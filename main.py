@@ -1,7 +1,8 @@
-from mundo_01.fase_01 import desafios
+import mundo01
+#from mundo01 import ola_mundo
+#mundo01.ola_mundo()
 
-
-desafios.desafio_001()
+help(mundo01.ola_mundo)
 
 
 

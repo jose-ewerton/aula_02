@@ -3,6 +3,3 @@ import mundo01
 #mundo01.ola_mundo()
 
 help(mundo01.ola_mundo)
-
-
-
